@@ -13,7 +13,7 @@ model=load_model()
 
 
 
-model=joblib.load("svc.joblib")
+model=joblib.load("SVC.joblib")
 
 st.set_page_config(
     page_title="CANCER DETECTION",
